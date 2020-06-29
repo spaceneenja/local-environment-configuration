@@ -1,0 +1,1 @@
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/spaceneenja/windows-workspace/master/workspace.ps1'))
