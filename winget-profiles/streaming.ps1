@@ -5,8 +5,7 @@ If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
     Write-Warning "You do not have Administrator rights to run this script!`nPlease re-run this script as an Administrator!"
     Break
 }
-
-winget install -e Mozilla.FirefoxDeveloperEdition
-winget install -e Opera.Opera
-winget install -e thehandbraketeam.handbrake
-winget install -e Postman.Postman
+ 
+# Gaming installs
+winget install -e twitch.twitch
+winget install -e OBSProject.OBSStudio

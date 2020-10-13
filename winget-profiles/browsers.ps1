@@ -6,5 +6,6 @@ If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
     Break
 }
 
-winget install -e SlackTechnologies.Slack
-winget install -e Google.DriveFileStream
+winget install -e Mozilla.FirefoxDeveloperEdition
+winget install -e Opera.Opera
+winget install -e Google.Chrome
