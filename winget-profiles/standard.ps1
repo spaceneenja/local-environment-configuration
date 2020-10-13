@@ -11,4 +11,4 @@ winget install -e Git.Git
 winget install -e Microsoft.VisualStudioCode
 winget install -e GitHub.GitHubDesktop
 winget install -e 7zip.7zip
-winget install -e Google.Chrome
+
