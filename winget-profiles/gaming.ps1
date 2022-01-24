@@ -8,6 +8,7 @@ If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
  
 # Gaming installs
 winget install -e Discord.Discord
-winget install -e Blizzard.BattleNet
+# winget install -e Blizzard.BattleNet
+winget install --id=WowUp.Wowup  -e
 winget install -e Valve.Steam
 winget install -e Lexikos.AutoHotkey
