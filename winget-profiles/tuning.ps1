@@ -7,3 +7,5 @@ If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 winget install -e Intel.ExtremeTuningUtility
+winget install -e TechPowerUp.GPU-Z
+winget install -e CPUID.CPU-Z
